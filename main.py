@@ -1,1 +1,1 @@
-echo 'print("Hello, World!")' > main.py
+print("Hello, World!")
